@@ -6,7 +6,7 @@ The solution is implemented in python. It creates a network of users, each of wh
 
 
 ## Required Python Packages
-The solution requires python packages:
+The solution runs on Python 2.7.11 and requires the following python packages:
 * numpy
 * collections
 * sys
